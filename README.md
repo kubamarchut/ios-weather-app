@@ -38,6 +38,6 @@ This iOS weather app provides users with weather information for different locat
 - `📡 Open-Meteo API`: For retrieving weather data.
 
 ## 🎥 Demonstration
-[![App demo](https://img.youtube.com/vi/N32eAXC5FMA/maxresdefault.jpg)](https://youtu.be/N32eAXC5FMA)
+[![App demo](https://img.youtube.com/vi/N32eAXC5FMA/hqdefault.jpg)](https://youtu.be/N32eAXC5FMA)
 
 A video demonstrating the application's usage.
