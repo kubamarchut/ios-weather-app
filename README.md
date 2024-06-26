@@ -4,6 +4,11 @@
 
 This iOS weather app provides users with weather information for different locations. Data is fetched from [Open-Meteo](https://open-meteo.com/en/docs). Users can choose from three fixed locations, selected for their diverse weather conditions, or use their current location via `LocationManager`.
 
+## 📸 Screenshots
+### 🌞 Light Mode
+
+### 🌜 Dark Mode
+
 ## ✨ Features
 
 - **📍 Location Selection**: Choose from three fixed locations or fetch the current location.
